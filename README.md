@@ -34,4 +34,4 @@ https://jacksonjjones.github.io/Horiseon-Accessibility-Challenge/
 
 ### Screenshot of deployed application!
 
-![Alt text](<Screenshot 2023-12-14 at 6.04.18 PM.png>)
+![Alt text](Screenshot.png)
