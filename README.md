@@ -30,7 +30,7 @@ THEN I find a concise, descriptive title
 
 ### link to the deployed application!
 
-https://jacksonjjones.github.io/Horiseon-Accessibility-Challenge/
+https://jacksonjjones.github.io/futuristic.bubble/
 
 ### Screenshot of deployed application!
 
